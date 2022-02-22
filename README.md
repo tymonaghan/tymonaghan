@@ -1,6 +1,6 @@
 ### Tyler Monaghan
 
-I am currently enrolled in the Immersive Web Development course at Fullstack Academy! I will complete this course in February 2022.
+I am looking for I recently completed the Immersive Web Development course at Fullstack Academy and I'm looking for a new position on a software development team that's trying to make the world a better place!
 
 Most of my time is spent working with: 
 - Node.js
