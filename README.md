@@ -8,8 +8,8 @@ Most of my time is spent working with:
 - DevOps
 
 I'm currently learning:
-- Java 
-- Tailwind CSS
+- Java (on codeacademy.com)
+- Tailwind CSS ([on my development portfolio site](https://github.com/tymonaghan/dev-portfolio) - in progress)
 
 Check out my profile at [tylermonaghan.dev](http://tylermonaghan.dev)
 
