@@ -3,9 +3,13 @@
 I recently completed the Immersive Web Development course at Fullstack Academy and I'm looking for a new position on a software development team that's making the world a better place!
 
 Most of my time is spent working with: 
-- Node.js
-- React & Redux
+- JavaScript (especially Node.js)
+- React
 - DevOps
+
+I'm currently learning:
+- Java
+- TypeScript
 
 Check out my profile at [tylermonaghan.dev](http://tylermonaghan.dev)
 
