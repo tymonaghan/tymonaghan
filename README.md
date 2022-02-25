@@ -9,7 +9,7 @@ Most of my time is spent working with:
 
 I'm currently learning:
 - Java
-- TypeScript
+- Tailwind CSS
 
 Check out my profile at [tylermonaghan.dev](http://tylermonaghan.dev)
 
