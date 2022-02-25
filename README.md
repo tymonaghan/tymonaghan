@@ -1,6 +1,6 @@
 ### Tyler Monaghan
 
-I recently completed the Immersive Web Development course at Fullstack Academy and I'm looking for a new position on a software development team that's making the world a better place!
+I recently completed the immersive software engineering bootcamp at Fullstack Academy and I'm looking for a new position on a software development team that's making the world a better place!
 
 Most of my time is spent working with: 
 - JavaScript (especially Node.js)
@@ -8,7 +8,7 @@ Most of my time is spent working with:
 - DevOps
 
 I'm currently learning:
-- Java
+- Java 
 - Tailwind CSS
 
 Check out my profile at [tylermonaghan.dev](http://tylermonaghan.dev)
