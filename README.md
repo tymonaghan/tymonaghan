@@ -1,3 +1,5 @@
+*Check out my brand new [portfolio site!](https://portfolio.tylermonaghan.dev)*
+
 ### Tyler Monaghan
 
 I recently completed the immersive software engineering bootcamp at Fullstack Academy and I'm looking for a new position on a software development team that's making the world a better place!
