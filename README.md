@@ -5,10 +5,11 @@ I recently completed the immersive software engineering bootcamp at Fullstack Ac
 Most of my time is spent working with: 
 - JavaScript (especially Node.js)
 - React
-- DevOps
+- SQL (especially PostgreSQL)
 
 I'm currently learning:
-- Java (on codeacademy.com)
+- Python (+Django)
+- a dash of Java (on codeacademy.com)
 
 Check out my development portfolio at [portfolio.tylermonaghan.dev](https://portfolio.tylermonaghan.dev)
 
